@@ -4,9 +4,16 @@
 
 Welcome to Threads, an interactive web application inspired by the Threads app by Facebook. Our platform is designed to provide a seamless communication experience, built using a modern tech stack including Next.js, React, MongoDB, TypeScript, and Node.js. With Clerk as our authentication service, we ensure a secure and user-friendly login process.
 
+### Home Screen
 ![Home Screen](/readme-images/home-screen.png)
+
+### Creating a Thread
 ![Creating a Thread](/readme-images/create-thread-screen.png)
+
+### Profile Page
 ![Profile Page](/readme-images/profile-screen.png)
+
+### Search Page
 ![Search Page](/readme-images/search-screen.png)
 
 ## Features
